@@ -7,7 +7,7 @@ Feature: Visualización de Servicios Destacados
     Given un cliente potencial visitando la landing page
     When accede al sitio web
     Then se muestran los servicios legales más relevantes y populares en un formato atractivo, organizado por categorías para facilitar la navegación
-    And puede hacer clic directamente en los servicios para obtener más información.
+    And puede acceder directamente en los servicios para obtener más información.
 
   Scenario: 
     Given el menú hamburguesa está implementado correctamente
